@@ -1,8 +1,8 @@
-## My name is João Wallace Leonel 👨🏾‍💻
+## My name is Danilo Menezes 👨🏾‍💻
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-leonel-93b9531b1/)](https://www.linkedin.com/in/wallace-leonel-93b9531b1/) [![instagram Badge](https://img.shields.io/badge/-instagram-blueviolet?style=fat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/wall_leonel/)](https://www.instagram.com/wall_leonel/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-menezes-5745041a2/)](https://www.linkedin.com/in/danilo-menezes-5745041a2/) [![instagram Badge](https://img.shields.io/badge/-instagram-blueviolet?style=fat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/danmenezxs/)](https://www.instagram.com/danmenezxs/)
 
 
 
@@ -16,9 +16,9 @@ _welcome to my profile_
 <center>
 <table>
 <tr>
-<td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceleonel&hide=html&layout=compact&theme=onedark" /></td>
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=wallaceleonel&theme=onedark"/>
-</tr>
+<td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmenezes&hide=html&layout=compact&theme=blue-green"/></td>
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dannmenezes&theme=blue-green"/>
+</tr> 
 </table>
 </center>
 
@@ -94,7 +94,7 @@ _Currently I'm focused on:_
 
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: :man
 
 
 
