@@ -11,16 +11,18 @@
 _welcome to my profile_
 
 
-
 ## _Learning around : )_
 <center>
-<table>
-<tr>
-<td><img width="430px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmenezes&hide=html&layout=compact&theme=blue-green"/></td>
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Dannmenezes&theme=blue-green"/>
-</tr> 
-</table>
-</center>
+  <table>
+<div align="center">
+  <a href="https://github.com/Dannmenezes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dannmenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmenezes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  </table>
+    </center>
+
+
 
 
 
