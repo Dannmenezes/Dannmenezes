@@ -1,4 +1,4 @@
-## My name is Danilo Menezes 👨🏾‍💻
+## My name is Danilo Menezes :cowboy_hat_face:
 
 
 
@@ -16,8 +16,8 @@ _welcome to my profile_
   <table>
 <div align="center">
   <a href="https://github.com/Dannmenezes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dannmenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmenezes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dannmenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmenezes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   </table>
     </center>
@@ -38,6 +38,7 @@ _welcome to my profile_
        <tr>
 <td>
     <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+    <img height="95em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
 
 </td>
 
@@ -59,15 +60,15 @@ _welcome to my profile_
 </center>
 
 
-_I realy like to learn 🔭 🔶_
+_I'd rather live for a dream than live without a goal_
 
 
 
-Just marathon runner :weight_lifting_man: 👨🏾‍💻 🗺️
+Just a young man learning programming :sunglasses:
 
 
 
-
+<!--
 _Currently I'm focused on:_
 
 
@@ -75,6 +76,7 @@ _Currently I'm focused on:_
 - Cisco-python PCAP :globe_with_meridians: 🪐
 
 - building Api's in python focusing on digital security :snake:
+-->
 
 
 
