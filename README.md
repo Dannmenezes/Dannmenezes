@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-<img href="https://raw.githubusercontent.com/Dannmenezes/Dannmenezes/master/main/snake.svg" alt="Snake animation" />
-
-###
