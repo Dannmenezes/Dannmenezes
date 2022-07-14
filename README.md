@@ -41,6 +41,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Dannmenezes/Dannmenezes/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/Dannmenezes/Dannmenezes/master/main/snake.svg" alt="Snake animation" />
 
 ###
