@@ -1,100 +1,40 @@
-## My name is Danilo Menezes :cowboy_hat_face:
+<h2 align="left">Hello World 👋! My name is Danilo Menezes</h2>
 
+###
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-menezes-5745041a2/)](https://www.linkedin.com/in/danilo-menezes-5745041a2/) [![instagram Badge](https://img.shields.io/badge/-instagram-blueviolet?style=fat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/danmenezxs/)](https://www.instagram.com/danmenezxs/)
-
-
-
-### Print (Helo Word!)
-
-_welcome to my profile_
-
-
-## _Learning around : )_
-<center>
-  <table>
 <div align="center">
-  <a href="https://github.com/Dannmenezes">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dannmenezes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannmenezes&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Dannmenezes" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Dannmenezes" height="150" alt="languages graph"  />
 </div>
-  </table>
-    </center>
 
+###
 
+<img align="right" height="158" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+</div>
 
-## _Technologies_
-  
-<table align="space-between">
-    <tr>
-  
-<th>Linguagens</th>
-<th>Ferramentas</th>
-<th>Softwares</th>
- </tr>
-       <tr>
-<td>
-    <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-    <img height="95em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+###
 
-</td>
+<div align="center">
+  <a href="https://www.instagram.com/danmenezxs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/dan-menezes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<td>
-   <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-                                                                                                               
-</td>
-   
-        
- <td>
-    <img height="95em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-    <img height="95em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-    
- </td>
-       
- </tr>  
-</table>
+###
 
-</center>
+<br clear="both">
 
+<img href="https://raw.githubusercontent.com/Dannmenezes/Dannmenezes/blob/output/snake.svg" alt="Snake animation" />
 
-_I'd rather live for a dream than live without a goal_
-
-
-
-Just a young man learning programming :sunglasses:
-
-
-
-<!--
-_Currently I'm focused on:_
-
-
-
-- Cisco-python PCAP :globe_with_meridians: 🪐
-
-- building Api's in python focusing on digital security :snake:
--->
-
-
-
-<!--
-**wallaceleonel/wallaceleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started: :man
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
