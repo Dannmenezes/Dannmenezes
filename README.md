@@ -40,3 +40,7 @@
 </div>
 
 ###
+
+![Snake animation](https://github.com/Dannmenezes/Dannmenezes/blob/output/github-contribution-grid-snake.svg)
+
+###
